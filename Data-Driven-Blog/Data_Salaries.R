@@ -225,35 +225,3 @@ summary(data[data$experience_level == "SE",]$salary_in_usd)
 summary(data[data$experience_level == "EX",]$salary_in_usd)
 
 cat(" THE END ")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
